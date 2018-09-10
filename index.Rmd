@@ -28,12 +28,14 @@ Hieronder vind je al het pitchmateriaal voor de verschillende projecten
 
 
 ## Assemblagebedrijf Perfect
+#### ICT infra structuur voor Smart Industry doeleinden
 <div class="resp-container">
 <iframe class="resp-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4FzSxFPSNT-FJGUmJ__M3GPCICXovwapErOl1P-I2MyDIuZo3zWJa4q7x1n0TiAndqSh3cfN6PxZg/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 <hr>
 ## Besite
+#### Chatbots bij maakbedrijven
 <div>
 <video width="100%" controls>
   <source src="besite.mp4" type="video/mp4">
@@ -43,12 +45,14 @@ Hieronder vind je al het pitchmateriaal voor de verschillende projecten
 
 <hr>
 ## HAN FT - Concept Lab
+#### Rapid Prototyping, Minimum Viable Products & Design Thinking
 <div class="resp-container">
 <iframe class="resp-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vTqf_WiGZMykJGRZYFHj21GyPdeA_TwbHUOyoOv6aZWrH9-acVhistKLF_43c53ZjHk00POXjscpsw6/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 <hr>
 ## HAN FT - LoRa
+#### Internet of Things (IoT) toepassingen
 <div class="resp-container">
 <iframe class="resp-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vSGEgKsAOGcLb3GmKbBVICcWOjA4929ujun0PVVnE7dqbDGGqQF4sFOOigIQFliBufWS2TlrnCrb0Rq/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>

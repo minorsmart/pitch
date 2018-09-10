@@ -1,0 +1,79 @@
+body {
+    background-color: white;
+}
+
+.title {
+    font-family: 'Nunito', monospace;
+    }
+.subtitle {
+    font-family: 'Nunito', monospace;
+    }
+    
+.author a {
+    font-family: 'Nunito', monospace;
+    }
+    
+.welkom {
+    font-family: 'Nunito', monospace;
+    }
+    
+p.welkom {
+    font-family: 'Roboto', monospace;
+    font-size: 16px;
+    }
+    
+h2, h3, h4, p {
+    font-family: 'Roboto', monospace;
+    }
+    
+#nav_logo {
+  width: 100%;
+  margin-top: 20px;
+}
+    
+.list-group-item.active, .list-group-item.active:focus {
+    background-color: #0944CB;
+}
+
+.list-group-item.active:hover {
+    background-color: #688FE7;
+}
+    
+.color-primary-0 { color: #01DADA }	/* Main Primary color */
+.color-primary-1 { color: #58E2E2 }
+.color-primary-2 { color: #2CDDDD }
+.color-primary-3 { color: #00C0C0 }
+.color-primary-4 { color: #008383 }
+
+.color-secondary-1-0 { color: #1955E0 }	/* Main Secondary color (1) */
+.color-secondary-1-1 { color: #688FE7 }
+.color-secondary-1-2 { color: #4172E3 }
+.color-secondary-1-3 { color: #0944CB }
+.color-secondary-1-4 { color: #073192 }
+
+.color-secondary-2-0 { color: #FFAB02 }	/* Main Secondary color (2) */
+.color-secondary-2-1 { color: #FFCB63 }
+.color-secondary-2-2 { color: #FFBB33 }
+.color-secondary-2-3 { color: #FFAA00 }
+.color-secondary-2-4 { color: #DA9100 }
+
+.color-complement-0 { color: #FF7402 }	/* Main Complement color */
+.color-complement-1 { color: #FFAA63 }
+.color-complement-2 { color: #FF9033 }
+.color-complement-3 { color: #FF7400 }
+.color-complement-4 { color: #DA6300 }
+    
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+
+.resp-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}

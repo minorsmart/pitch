@@ -1,0 +1,54 @@
+---
+title: "Nieuws"
+author: "witek.tenhove@han.nl"
+output: 
+    html_document:
+      toc: yes
+      toc_float: yes
+      css: styles.css
+      self_contained: false
+      includes:
+        in_header: header.html
+---
+<script>
+  $(document).ready(function() {
+    $('#TOC').parent().prepend('<div id=\"nav_logo\"><img src=\"logo.png\"></div>');
+  });
+</script>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<h1 class="welkom toc-ignore">MSI Pitchdag P1 2018</h2>
+
+<p class="welkom" >
+Hieronder vind je al het pitchmateriaal voor de verschillende projecten
+</p>
+<hr>
+
+
+## Assemblagebedrijf Perfect
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4FzSxFPSNT-FJGUmJ__M3GPCICXovwapErOl1P-I2MyDIuZo3zWJa4q7x1n0TiAndqSh3cfN6PxZg/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<hr>
+## Besite
+<div>
+<video width="100%" controls>
+  <source src="besite.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</div>
+
+<hr>
+## HAN FT - Concept Lab
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vTqf_WiGZMykJGRZYFHj21GyPdeA_TwbHUOyoOv6aZWrH9-acVhistKLF_43c53ZjHk00POXjscpsw6/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<hr>
+## HAN FT - LoRa
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vSGEgKsAOGcLb3GmKbBVICcWOjA4929ujun0PVVnE7dqbDGGqQF4sFOOigIQFliBufWS2TlrnCrb0Rq/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>

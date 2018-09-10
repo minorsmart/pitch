@@ -1,5 +1,5 @@
 ---
-title: "Nieuws"
+title: "Pitchdag P1 2018"
 author: "witek.tenhove@han.nl"
 output: 
     html_document:
@@ -19,7 +19,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-<h1 class="welkom toc-ignore">MSI Pitchdag P1 2018</h2>
+<h1 class="welkom toc-ignore">Welcome Smart!</h2>
 
 <p class="welkom" >
 Hieronder vind je al het pitchmateriaal voor de verschillende projecten

@@ -29,11 +29,10 @@ Op 12 september zijn alle praktijkpartners van HAN MSI uitgenodigd om kennis te 
 </div>
 <br>
 Om 11:30u gaan we na een korte pauze door in lokaal **D308** voor speeddatesessies. Tussendoor zal een lichte lunch worden geserveerd. Om 14:00u eindigt het programma. Voor meer informatie kan contact opgenomen worden met de organisatie via marlous.vandentooren@han.nl.
-Hieronder vind je al het pitchmateriaal voor de verschillende projecten
 </p>
 <hr>
 
-
+# Presentatiemateriaal
 ## Assemblagebedrijf Perfect
 #### ICT infra structuur voor Smart Industry doeleinden
 <div class="resp-container">

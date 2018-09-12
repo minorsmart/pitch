@@ -91,7 +91,7 @@ Om 11:30u gaan we na een korte pauze door in lokaal **D308** voor speeddatesessi
 <iframe class="resp-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vSxS1H1iTQnC9q55B9g2vZGUK2dVSgH9wl-SMIK5cMuWvhv9SMTZEnIJBGWNmiJMZSyvyzKAi6GfYpI/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-hr>
+<hr>
 ## MPrise
 #### Smart Agro
 <div class="resp-container">

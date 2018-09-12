@@ -57,6 +57,13 @@ Om 11:30u gaan we na een korte pauze door in lokaal **D308** voor speeddatesessi
 </div>
 
 <hr>
+## DigiFab
+#### Smart Technology Center
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vR-bREXVW-u3qKhg2IpFrymQpB68Q10cP3rHql873aLwYGiOB5OGhFBVbC65uglpIMCZBi6xAovbtUG/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<hr>
 ## Duiven
 #### Smart Business Parc
 <div class="resp-container">
@@ -92,6 +99,20 @@ Om 11:30u gaan we na een korte pauze door in lokaal **D308** voor speeddatesessi
 </div>
 
 <hr>
+## Internethuis
+#### Internet of Trees and education
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vTBBE0HdKxyvaZ3vaFa4ZRjNKiGO4IzlIqa7Z9LDdcttODTQ8cRH2Jniijn2qLLXJhsIL2lcigtLPmO/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<hr>
+## Metaflex
+#### Smart Planning
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vTR7lPQ3bGD5twV83xDxhhHu0v6AndXwc4SY58iIb0jYYW-pyhEZSzAXN27I4YC6O7neZGHgTDXb5Lr/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<hr>
 ## MPrise
 #### Smart Agro
 <div class="resp-container">
@@ -99,8 +120,22 @@ Om 11:30u gaan we na een korte pauze door in lokaal **D308** voor speeddatesessi
 </div>
 
 <hr>
+## NXP
+#### Efficient workstation management
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://www.youtube.com/embed/ncbyhR8rPRA" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<hr>
 ## Pillen
 #### Mobile ERP
 <div class="resp-container">
 <iframe class="resp-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vQCt5TVuzpOWdEOcJdOWEQ1PCOiLVxnmiuRmLJWIVH6oeVft015Q6EFPbkcnJ7Qge8cvUVyV92LmMsr/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<hr>
+## QConcept
+#### Planning complexity
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://www.youtube.com/embed/GjyxBUyE9uo" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>

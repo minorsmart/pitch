@@ -57,6 +57,20 @@ Om 11:30u gaan we na een korte pauze door in lokaal **D308** voor speeddatesessi
 </div>
 
 <hr>
+## Duiven
+#### Smart Business Parc
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vTvyWwiz6uIk8vvXpzm0EbW7xkiHwinGN2CAwXnkwojTDh4kx16vo2tSNRmvtamvZ1QUK7stxhSonGm/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<hr>
+## Eijgenhuijsen
+#### Smart processes
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vSBl3tuo9XigUe7vMBgCa70KXDhmEnfX98uNGC4lktUvPnzCGVnkU4e0zLBTZLB5O4IYrJ1xGGKO7B5/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<hr>
 ## HAN FT - Concept Lab
 #### Rapid Prototyping, Minimum Viable Products & Design Thinking
 <div class="resp-container">
